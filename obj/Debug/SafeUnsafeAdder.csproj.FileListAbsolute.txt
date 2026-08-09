@@ -1,0 +1,9 @@
+C:\Users\Gomolemo Tshenye\source\repos\SafeUnsafeAdder\SafeUnsafeAdder\bin\Debug\SafeUnsafeAdder.exe.config
+C:\Users\Gomolemo Tshenye\source\repos\SafeUnsafeAdder\SafeUnsafeAdder\bin\Debug\SafeUnsafeAdder.exe
+C:\Users\Gomolemo Tshenye\source\repos\SafeUnsafeAdder\SafeUnsafeAdder\bin\Debug\SafeUnsafeAdder.pdb
+C:\Users\Gomolemo Tshenye\source\repos\SafeUnsafeAdder\SafeUnsafeAdder\obj\Debug\SafeUnsafeAdder.csproj.AssemblyReference.cache
+C:\Users\Gomolemo Tshenye\source\repos\SafeUnsafeAdder\SafeUnsafeAdder\obj\Debug\SafeUnsafeAdder.Form1.resources
+C:\Users\Gomolemo Tshenye\source\repos\SafeUnsafeAdder\SafeUnsafeAdder\obj\Debug\SafeUnsafeAdder.csproj.GenerateResource.cache
+C:\Users\Gomolemo Tshenye\source\repos\SafeUnsafeAdder\SafeUnsafeAdder\obj\Debug\SafeUnsafeAdder.csproj.CoreCompileInputs.cache
+C:\Users\Gomolemo Tshenye\source\repos\SafeUnsafeAdder\SafeUnsafeAdder\obj\Debug\SafeUnsafeAdder.exe
+C:\Users\Gomolemo Tshenye\source\repos\SafeUnsafeAdder\SafeUnsafeAdder\obj\Debug\SafeUnsafeAdder.pdb
